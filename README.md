@@ -103,7 +103,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](yuva/slotapp/static/logo.png)
+![alt text](<Screenshot (5).png>)
 
 
 ## RESULT
